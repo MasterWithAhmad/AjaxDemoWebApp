@@ -38,21 +38,6 @@ Update-Package -ReinstallBuild
 3. ✏️ Edit Data: Update records through the edit forms.
 4. 🗑️ Delete Data: Remove records from the database.
 
-### 🖼️ Screenshots
-
-Here are some screenshots of the application:
-
-### 🏠 Home Page
-![Home Page]
-(screenshots/HomePage.png)
-
-### 📋 Data Management
-
-![Data Management](assets/screenshots/AddContact.png)
-
-### 📝 Edit Form
-
-![Edit Form](assets/screenshots/screenshot3.png)
 
 ## 🤝 Contributing
 If you wish to contribute to this project, please fork the repository and submit a pull request. 
@@ -63,7 +48,15 @@ For major changes, open an issue to discuss the proposed changes.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🌟 Acknowledgements
-● ASP.NET Core Documentation
-● AJAXDocumentation
-● Bootstrap
-● SweetAlert2
+
+i'd like to thank the following technologies that made this project possible:
+
+- **ASP.NET Core**
+
+- **C#**
+
+- **Bootstrap** ![Bootstrap](https://img.icons8.com/ios-filled/50/000000/bootstrap.png)
+  
+- **jQuery** ![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png)
+  
+- **SweetAlert2** 
